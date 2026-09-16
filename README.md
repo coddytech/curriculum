@@ -50,7 +50,7 @@ A **journey** is Coddy's guided path for one language: ordered sections, ~30 min
 
 | Space | Journeys | Path |
 |---|---|---|
-| ♟️ [Chess](https://coddy.tech/chess) | Learn Chess · Tactics & Checkmates · Endgames | [Path](journeys/chess.md) |
+| ♟️ [Chess](https://coddy.tech/chess) | Learn Chess · Tactics & Checkmates · Endgames · Openings 🔜 · Strategy 🔜 | [Path](journeys/chess.md) |
 | ➗ [Math](https://coddy.tech/math) | Algebra | [Path](journeys/math.md) |
 
 ## Topic tracks

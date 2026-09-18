@@ -6,7 +6,7 @@
 
 **Everything you can learn on [coddy.tech](https://coddy.tech) — bite-sized, hands-on, free to finish.**
 
-![Courses](https://img.shields.io/badge/courses-125-blue) ![Languages](https://img.shields.io/badge/languages-27-brightgreen) ![Certificates](https://img.shields.io/badge/certificates-free-orange)
+![Courses](https://img.shields.io/badge/courses-125-blue) ![Languages](https://img.shields.io/badge/languages-29-brightgreen) ![Certificates](https://img.shields.io/badge/certificates-free-orange)
 
 ⭐ **Star this repo** to keep the roadmap handy — and don't know where to start? [Take the 2-minute onboarding quiz](https://coddy.tech/onboard).
 
@@ -33,6 +33,7 @@ A **journey** is Coddy's guided path for one language: ordered sections, ~30 min
 | PHP | 3 | [Start](https://coddy.tech/landing/php) | [Path](journeys/php.md) | — | [🎓](https://coddy.tech/certification/php) |
 | Ruby | 2 | [Start](https://coddy.tech/landing/ruby) | [Path](journeys/ruby.md) | — | [🎓](https://coddy.tech/certification/ruby) |
 | Swift | 2 | [Start](https://coddy.tech/landing/swift) | [Path](journeys/swift.md) | — | [🎓](https://coddy.tech/certification/swift) |
+| Kotlin | 2 | [Start](https://coddy.tech/landing/kotlin) | [Path](journeys/kotlin.md) | — | [🎓](https://coddy.tech/certification/kotlin) |
 | Dart | 3 | [Start](https://coddy.tech/landing/dart) | [Path](journeys/dart.md) | — | [🎓](https://coddy.tech/certification/dart) |
 | Lua | 4 | [Start](https://coddy.tech/landing/lua) | [Path](journeys/lua.md) | — | [🎓](https://coddy.tech/certification/lua) |
 | Luau | 1 *(in Lua)* | [Start](https://coddy.tech/landing/luau) | [Path](journeys/luau.md) | — | — |
@@ -45,6 +46,7 @@ A **journey** is Coddy's guided path for one language: ordered sections, ~30 min
 | AI Prompts | 1 | [Start](https://coddy.tech/landing/prompts) | [Path](journeys/prompts.md) | — | [🎓](https://coddy.tech/certification/prompts) |
 | Verilog | 1 | [Start](https://coddy.tech/landing/verilog) | [Path](journeys/verilog.md) | [Docs](https://coddy.tech/docs/verilog) | — |
 | Assembly | 1 | [Start](https://coddy.tech/landing/assembly) | [Path](journeys/assembly.md) | — | [🎓](https://coddy.tech/certification/assembly) |
+| Solidity | 1 | [Start](https://coddy.tech/landing/solidity) | [Path](journeys/solidity.md) | — | [🎓](https://coddy.tech/certification/solidity) |
 
 ## Beyond code
 

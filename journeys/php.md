@@ -80,6 +80,7 @@ Follow the full track in [Interview Preparation](../topics/interview-preparation
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/php)
 - [Playground](https://coddy.tech/playground/php)
 - [Certificate](https://coddy.tech/certification/php)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/php)

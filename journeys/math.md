@@ -12,6 +12,13 @@ Math on Coddy is solved, not watched: work every problem step by step on an inte
 4. [Exponents & Polynomials](https://coddy.tech/landing/algebra#syllabus-section-exponents_and_polynomials) — 64 lessons
 5. [Factoring & Quadratics](https://coddy.tech/landing/algebra#syllabus-section-factoring_and_quadratics) — 63 lessons
 
+## Geometry
+
+**[Start →](https://coddy.tech/landing/geometry)** · 133 lessons
+
+1. [Angles](https://coddy.tech/landing/geometry#syllabus-section-angles) — 62 lessons
+2. [Triangles](https://coddy.tech/landing/geometry#syllabus-section-triangles) — 71 lessons
+
 ---
 
 [← Back to the curriculum](../README.md)

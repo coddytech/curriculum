@@ -13,6 +13,7 @@ At ~30 minutes a day, most people finish in 4–8 weeks. 23 lessons across 1 sec
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/prompts)
 - [Certificate](https://coddy.tech/certification/prompts)
 
 ---

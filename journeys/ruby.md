@@ -1,16 +1,17 @@
 # Ruby Journey
 
-Ruby is designed for programmer happiness, with famously readable syntax and the Rails framework behind it. The journey takes you from `puts` to blocks, methods and control flow.
+Ruby is designed for programmer happiness, with famously readable syntax and the Rails framework behind it. The journey takes you from `puts` to blocks, methods and control flow, then classes, modules and mixins.
 
 **[Start the Ruby journey →](https://coddy.tech/landing/ruby)**
 
-At ~30 minutes a day, most people finish in 4–8 weeks. 144 lessons across 2 sections. Finish every section to earn the free certificate.
+At ~30 minutes a day, most people finish in 4–8 weeks. 201 lessons across 3 sections. Finish every section to earn the free certificate.
 
 ## The journey
 
 1. [Fundamentals](https://coddy.tech/landing/ruby#syllabus-section-fundamentals) — 88 lessons
 2. [Logic & Flow](https://coddy.tech/landing/ruby#syllabus-section-logic_and_flow) — 56 lessons
-3. 🎓 [**Certificate of completion**](https://coddy.tech/certification/ruby) — free, shareable, no paywall
+3. [Object Oriented Programming](https://coddy.tech/landing/ruby#syllabus-section-object_oriented_programming) — 57 lessons
+4. 🎓 [**Certificate of completion**](https://coddy.tech/certification/ruby) — free, shareable, no paywall
 
 ## Go further
 

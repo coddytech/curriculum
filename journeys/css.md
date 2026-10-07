@@ -26,6 +26,7 @@ Finish the whole HTML & CSS journey to earn the 🎓 [free certificate](https://
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/css)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/css)
 
 ---

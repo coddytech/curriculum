@@ -86,6 +86,7 @@ Follow the full track in [Interview Preparation](../topics/interview-preparation
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/go)
 - [Playground](https://coddy.tech/playground/golang)
 - [Certificate](https://coddy.tech/certification/go)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/go)

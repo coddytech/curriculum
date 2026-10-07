@@ -23,6 +23,7 @@ Finish the whole Lua journey to earn the 🎓 [free certificate](https://coddy.t
 ## Reference
 
 - [Playground](https://coddy.tech/playground/luau)
+- [Cheat sheet](https://coddy.tech/cheat-sheets/luau)
 
 ---
 

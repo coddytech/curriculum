@@ -25,6 +25,7 @@ Finish the whole JavaScript journey to earn the 🎓 [free certificate](https://
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/typescript)
 - [Playground](https://coddy.tech/playground/typescript)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/typescript)
 

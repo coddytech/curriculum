@@ -11,6 +11,11 @@ At ~30 minutes a day, most people finish in 4–8 weeks. 89 lessons across 2 sec
 1. [Fundamentals](https://coddy.tech/landing/react#syllabus-section-fundamentals) — 42 lessons
 2. [Next.js Essentials](https://coddy.tech/landing/nextjs) — 47 lessons
 
+## Reference
+
+- [Docs](https://coddy.tech/docs/react)
+- [Playground](https://coddy.tech/playground/react)
+
 ---
 
 [← Back to the curriculum](../README.md)

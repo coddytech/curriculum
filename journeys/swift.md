@@ -1,16 +1,18 @@
 # Swift Journey
 
-Swift is Apple's modern language for building iOS and macOS apps. The journey takes you from `print` to optionals, functions and control flow.
+Swift is Apple's modern language for building iOS and macOS apps. The journey takes you from `print` to optionals, functions and control flow, then object-oriented Swift with structs, classes and protocols, and on to building app screens with SwiftUI.
 
 **[Start the Swift journey →](https://coddy.tech/landing/swift)**
 
-At ~30 minutes a day, most people finish in 4–8 weeks. 142 lessons across 2 sections. Finish every section to earn the free certificate.
+At ~30 minutes a day, most people finish in 4–8 weeks. 249 lessons across 4 sections. Finish every section to earn the free certificate.
 
 ## The journey
 
 1. [Fundamentals](https://coddy.tech/landing/swift#syllabus-section-fundamentals) — 86 lessons
 2. [Logic & Flow](https://coddy.tech/landing/swift#syllabus-section-logic_and_flow) — 56 lessons
-3. 🎓 [**Certificate of completion**](https://coddy.tech/certification/swift) — free, shareable, no paywall
+3. [Object Oriented Programming](https://coddy.tech/landing/swift#syllabus-section-object_oriented_programming) — 57 lessons
+4. [Introduction to SwiftUI](https://coddy.tech/landing/swiftui) — 50 lessons
+5. 🎓 [**Certificate of completion**](https://coddy.tech/certification/swift) — free, shareable, no paywall
 
 ## Go further
 
@@ -80,6 +82,7 @@ Follow the full track in [Interview Preparation](../topics/interview-preparation
 ## Reference
 
 - [Playground](https://coddy.tech/playground/swift)
+- [SwiftUI playground](https://coddy.tech/playground/swiftui)
 - [Certificate](https://coddy.tech/certification/swift)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/swift)
 

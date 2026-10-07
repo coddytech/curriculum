@@ -58,6 +58,7 @@ Standalone courses to take alongside or after the journey.
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/html)
 - [Playground](https://coddy.tech/playground/html)
 - [Certificate](https://coddy.tech/certification/html)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/html)

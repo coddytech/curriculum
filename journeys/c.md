@@ -85,6 +85,7 @@ Follow the full track in [Interview Preparation](../topics/interview-preparation
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/c)
 - [Playground](https://coddy.tech/playground/c)
 - [Certificate](https://coddy.tech/certification/c)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/c)

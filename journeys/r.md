@@ -1,15 +1,17 @@
 # R Journey
 
-R is a language built for statistics, data analysis and visualization. The journey covers vectors, data frames and the core of the language.
+R is a language built for statistics, data analysis and visualization. The journey covers vectors, data frames and the core of the language, then the apply family, matrices and R's S3, S4 and Reference Class object systems.
 
 **[Start the R journey →](https://coddy.tech/landing/r)**
 
-At ~30 minutes a day, most people finish in 4–8 weeks. 78 lessons across 1 section. Finish every section to earn the free certificate.
+At ~30 minutes a day, most people finish in 4–8 weeks. 199 lessons across 3 sections. Finish every section to earn the free certificate.
 
 ## The journey
 
 1. [Fundamentals](https://coddy.tech/landing/r#syllabus-section-fundamentals) — 78 lessons
-2. 🎓 [**Certificate of completion**](https://coddy.tech/certification/r) — free, shareable, no paywall
+2. [Logic & Flow](https://coddy.tech/landing/r#syllabus-section-logic_and_flow) — 64 lessons
+3. [Object Oriented Programming](https://coddy.tech/landing/r#syllabus-section-object_oriented_programming) — 57 lessons
+4. 🎓 [**Certificate of completion**](https://coddy.tech/certification/r) — free, shareable, no paywall
 
 ## Go further
 
@@ -85,6 +87,7 @@ Follow the full track in [Interview Preparation](../topics/interview-preparation
 - [Docs](https://coddy.tech/docs/r)
 - [Playground](https://coddy.tech/playground/r)
 - [Certificate](https://coddy.tech/certification/r)
+- [Cheat sheet](https://coddy.tech/cheat-sheets/r)
 
 ---
 

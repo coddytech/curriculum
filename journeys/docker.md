@@ -17,6 +17,10 @@ What this track covers (40 lessons):
 
 1. **Introduction to Docker** — 40 lessons
 
+Sections that come after it:
+
+- [Introduction to Kubernetes](https://coddy.tech/landing/terminal#syllabus-section-introduction_to_kubernetes) — 45 lessons
+
 Finish the whole Terminal journey to earn the 🎓 [free certificate](https://coddy.tech/certification/terminal).
 
 ---

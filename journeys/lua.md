@@ -83,6 +83,7 @@ Follow the full track in [Interview Preparation](../topics/interview-preparation
 
 - [Playground](https://coddy.tech/playground/lua)
 - [Certificate](https://coddy.tech/certification/lua)
+- [Cheat sheet](https://coddy.tech/cheat-sheets/lua)
 
 ---
 

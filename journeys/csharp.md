@@ -84,6 +84,7 @@ Follow the full track in [Interview Preparation](../topics/interview-preparation
 
 ## Reference
 
+- [Docs](https://coddy.tech/docs/csharp)
 - [Playground](https://coddy.tech/playground/csharp)
 - [Certificate](https://coddy.tech/certification/csharp)
 - [Cheat sheet](https://coddy.tech/cheat-sheets/csharp)
